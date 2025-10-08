@@ -1,0 +1,9 @@
+# Environment variables
+.env
+
+# Python virtual environment
+agentic_env/
+
+# Cache and temp files
+__pycache__/
+*.pyc

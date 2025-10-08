@@ -1,0 +1,19 @@
+# Core AI and LLM libraries
+openai>=1.0.0
+langchain>=0.2.0
+crewai>=0.1.0
+
+# Vector databases and memory
+chromadb>=0.4.0
+faiss-cpu>=1.7.0
+
+# Environment and utilities
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Optional (useful for notebooks and development)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# (Optional) visualization and debugging tools
+tqdm>=4.66.0
